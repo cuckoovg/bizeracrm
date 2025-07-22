@@ -83,7 +83,7 @@
 
 	.draggable-ghost {
 		opacity: 0.5;
-		background: #112057;
+		background: #e0e7ff;
 	}
 
 	html.dark [class^="icon-"],

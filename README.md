@@ -1,4 +1,4 @@
-Bizera 1.2.1 Tim Dev
+BizeraCRM 1.2.1 Tim Dev
 
 # Support Terms
 
